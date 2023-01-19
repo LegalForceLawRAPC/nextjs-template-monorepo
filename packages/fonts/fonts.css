@@ -1,0 +1,4 @@
+@import "./system_ui/sys_ui.css";
+body {
+  font-family: "system-ui";
+}

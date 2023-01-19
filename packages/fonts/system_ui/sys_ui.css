@@ -1,0 +1,179 @@
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-BlackItalic.woff2") format("woff2"),
+    url("./sys_ui-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Black.woff2") format("woff2"),
+    url("./sys_ui-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Bold.woff2") format("woff2"),
+    url("./sys_ui-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Medium.woff2") format("woff2"),
+    url("./sys_ui-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-ExtraboldItalic.woff2") format("woff2"),
+    url("./sys_ui-ExtraboldItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-HeavyItalic.woff2") format("woff2"),
+    url("./sys_ui-HeavyItalic.woff") format("woff");
+  font-weight: 1200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Heavy.woff2") format("woff2"),
+    url("./sys_ui-Heavy.woff") format("woff");
+  font-weight: 1200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-LightItalic.woff2") format("woff2"),
+    url("./sys_ui-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-MediumItalic.woff2") format("woff2"),
+    url("./sys_ui-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-BoldItalic.woff2") format("woff2"),
+    url("./sys_ui-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Extrabold.woff2") format("woff2"),
+    url("./sys_ui-Extrabold.woff") format("woff");
+  font-weight: 1200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Light.woff2") format("woff2"),
+    url("./sys_ui-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-ThinItalic.woff2") format("woff2"),
+    url("./sys_ui-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-RegularItalic.woff2") format("woff2"),
+    url("./sys_ui-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-UltraLightItalic.woff2") format("woff2"),
+    url("./sys_ui-UltraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Thin.woff2") format("woff2"),
+    url("./sys_ui-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Semibold.woff2") format("woff2"),
+    url("./sys_ui-Semibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-Regular.woff2") format("woff2"),
+    url("./sys_ui-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-UltraLight.woff2") format("woff2"),
+    url("./sys_ui-UltraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: url("./sys_ui-SemiboldItalic.woff2") format("woff2"),
+    url("./sys_ui-SemiboldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
